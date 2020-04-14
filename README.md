@@ -9,7 +9,7 @@
 
 https://github.com/mawricio/ds-na-veia-blog
 # Meu Blog
-powered by fastpages
+powered by FastPagesIA
 
 > An easy to use blogging platform, with support for Jupyter notebooks, Word docs, and Markdown.
 
