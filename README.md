@@ -7,7 +7,9 @@
 
 [//]: # (END OF BADGES SECTION)
 
-# Welcome To `https://github.com/mawricio/ds-na-veia`
+https://github.com/mawricio/ds-na-veia-blog
+# Meu Blog
+powered by fastpages
 
 > An easy to use blogging platform, with support for Jupyter notebooks, Word docs, and Markdown.
 
